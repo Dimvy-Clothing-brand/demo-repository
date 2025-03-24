@@ -1,3 +1,5 @@
+[![Proof HTML](https://github.com/Dimvy-Clothing-brand/demo-repository/actions/workflows/proof-html.yml/badge.svg?branch=main)](https://github.com/Dimvy-Clothing-brand/demo-repository/actions/workflows/proof-html.yml)
+
 [![Jekyll site CI](https://github.com/Dimvy-Clothing-brand/demo-repository/actions/workflows/jekyll-docker.yml/badge.svg?branch=main)](https://github.com/Dimvy-Clothing-brand/demo-repository/actions/workflows/jekyll-docker.yml)
 
 
