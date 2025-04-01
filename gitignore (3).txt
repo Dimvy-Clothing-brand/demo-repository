@@ -1,0 +1,101 @@
+# Secrets and sensitive files
+*.env
+*.key
+*.pem
+*.p12
+*.cer
+*.crt
+*.csr
+*.der
+*.jks
+*.pfx
+*.p7b
+*.p7c
+*.p12
+
+# Log files
+*.log
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+.config
+coverage/
+InstalledFiles
+pkg/
+spec/reports/
+test/tmp/
+test/version_tmp/
+tmp/
+
+# PHP
+vendor/
+*.log
+*.cache
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+# Temporary files
+*.swp
+*.swo
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Backup files
+*.bak
+*.tmp
+*.temp
+*.old
+*.orig
+*.save
+
+# Packaging
+*.tar.gz
+*.zip
+*.7z
+*.rar
